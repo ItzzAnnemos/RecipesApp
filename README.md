@@ -1,9 +1,13 @@
-# 🎓 MIS Lab 1 – Flutter App
+# 🎓 MIS Lab 2 & 3 – Flutter App
 
 A sleek and simple Flutter project meal recipes and details display.
 
 ---
 
-## 🎬 App Preview
+## 🎬 Lab 2 - App Preview
 
-![App Demo](assets/demo2.gif)
+![App Demo2](assets/demo2.gif)
+
+## 🎬 Lab 3 - App Preview
+
+![App Demo3](assets/demo3.gif)

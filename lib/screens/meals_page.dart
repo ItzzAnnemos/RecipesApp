@@ -42,6 +42,13 @@ class _MealsPageState extends State<MealsPage> {
         ),
         actions: [
           IconButton(
+            icon: const Icon(Icons.favorite, color: Colors.white),
+            onPressed: () {
+              Navigator.pushNamed(context, "/favourites");
+            },
+            tooltip: "Favourites",
+          ),
+          IconButton(
             icon: const Icon(Icons.card_giftcard, color: Colors.white),
             onPressed: _loadAndNavigateToRandomMeal,
           ),
